@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+torchaudio
+librosa
+openai-whisper
+transformers
+numpy
+pandas
+scikit-learn
+python-dotenv
+google-genai
+gtts

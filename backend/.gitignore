@@ -1,0 +1,7 @@
+.env 
+__pycache__/
+temp_uploads/
+.venv/
+core 
+utils
+__init__.py
